@@ -1,2 +1,3 @@
 "tela login" 
 "validacao login" 
+"recuperacao senha" 
